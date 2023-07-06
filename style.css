@@ -1,0 +1,427 @@
+body{
+ background-color:white;
+ margin:0px;
+
+}
+
+@media  {
+
+
+
+  
+
+}
+
+
+
+h1  {
+  font-family:Poiret One;
+  color: #292B79;
+  font-size: 70px;
+  text-align: center;
+
+
+
+}
+
+h2{
+   font-family:Rajdhani ;
+   text-align: center;
+   padding-top: 35px;
+   padding-bottom: 35px;
+
+
+
+}
+
+li{
+
+  list-style: none;
+  display: inline-flex;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 25px;
+  flex-direction:column;
+  font-family: Zeyada;
+
+
+}
+
+li:hover{
+  text-decoration-style: dotted;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Poiret One;
+  color:#C21947;
+
+
+}
+
+
+p#text{
+  color:black;
+  font-family: Rajdhani, sans-serif;
+  font-size: 25px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+
+
+}
+
+h1#title{
+  font-family: zeyada;
+  font-size: 150px;
+  text-align:center;
+  color:#a5124e;
+
+}
+
+p{
+
+font-family: Ysabeau Infant;
+color: #191825;
+font-size: 25px;
+text-align: center;
+
+}
+
+.want{
+   /* background-image: url(flowers.jpeg); */
+
+}
+
+.to{
+  background-image: url(flowers.jpeg);
+
+
+}
+
+.btn-click{
+  /* top: 20px; */
+  left:970px;
+    position: relative;
+    display: inline;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 34px;
+
+}
+
+.cta{
+  position:relative;
+  left:30px;
+  top:80px;
+  padding-top: 55px;
+  margin-top: 55px;
+  margin-left: 95px;
+  width:600px;
+  text-align: left;
+}
+
+.shy{
+   font-family: Nanum Myeongjo;
+   color: white;
+   font-size: 35px;
+
+
+}
+
+
+.title-page{
+  background-image: url(flower.jpeg);
+  display:grid;
+  background-color: #4F52CF;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  width:100%;
+
+}
+
+/* .square{
+  background-color:#9496FF;
+  height:500px;
+  width:100%;
+
+
+} */
+
+.body-pic{
+  width: 0px;
+  height:350px;
+}
+
+.me {
+  height:400px;
+  width:100%;
+  display: flex;
+
+
+}
+.pic{
+  width:0px;
+}
+
+.girl{
+  width: 300px;
+  height:300px;
+  right: 400px;
+  top: 100px;
+  position: relative;
+  border-radius: 50%;
+  margin-left: 0px;
+  float: left;
+  display: flex;
+}
+
+.res{
+  margin-top:100px;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  border-radius: 10%;
+  border-width: medium;
+  border-style: dashed;
+  align-self: center;
+}
+
+.res:hover{
+  width:90%;
+  border-width:thick;
+  border-style: dotted;
+  border-color: blue;
+
+}
+
+.tin{
+  width:70%;
+  border-radius: 10%;
+  border-width: medium;
+  border-style: dashed;
+  padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.tin:hover{
+
+   width:100%;
+   border-width:thick;
+   border-style: dotted;
+   border-color: blue;
+   padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+}
+
+
+
+.Chess{
+  border-radius: 10%;
+  border-width: medium;
+  border-style: dashed;
+  align-self: center;
+width:70%;
+padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.Chess:hover{
+  width:100%;
+  border-width:thick;
+  border-style: dotted;
+  border-color: blue;
+  padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+}
+
+.hotel{
+  border-radius: 10%;
+  border-width: medium;
+  border-style: dashed;
+  width:70%;
+  margin-right: 60px;
+  padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.hotel:hover{
+  width:100%;
+  border-width:thick;
+  border-style: dotted;
+  border-color: blue;
+  padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.prog{
+  width:30rem;
+  padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border-radius: 10%;
+    border-width: medium;
+    border-style: dashed;
+    align-self: center;
+}
+
+.prog:hover{
+
+
+}
+
+.kit{
+  width:30rem;
+  padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border-radius: 10%;
+    border-width: medium;
+    border-style: dashed;
+    align-self: center;
+}
+
+.row{
+  display:flex;
+  margin-left:100px;
+  margin-right:100px;
+  margin-bottom:70px;
+  align-content: center;
+  flex-direction: row;
+  gap:73px;
+
+
+}
+
+.Contanier{
+  display: flex;
+  gap:73px;
+  margin-left:200px;
+  margin-right:90px;
+  margin-bottom:70px;
+  align-content:center;
+  flex-direction: row;
+
+}
+
+.container{
+  display: grid;
+  gap:15px;
+  margin-left:200px;
+  margin-right:90px;
+  margin-bottom:70px;
+  align-content:center;
+  grid-row:auto;
+}
+
+
+.nav{
+  display:block;
+  background-color: white;
+
+}
+
+strong{
+
+  font-style: italic;
+  text-decoration: overline;
+
+}
+
+.to{
+  padding-bottom: 100px;
+  background-image: url(flowers.jpeg);
+  background-position: center;
+  position: sticky;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+hr{
+  border-top-width: 22px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 500px;
+    border-style: dotted;
+    border-width: thin;
+    border-color: #6c192d;
+
+}
+
+#who{
+  font-size: 80px;
+  font-family: Nanum Myeongjo;
+  color:#292B79;
+  position:relative;
+  margin-left: 0px;
+  margin-right:90px;
+  width: 700px;
+
+}
+
+#title{
+  margin:0px;
+}
+
+#subtitle{
+  margin:0;
+  margin-bottom: 175px;
+  font-size:30px;
+  font-family: Poiret One;
+  color:black;
+  text-align: center;
+}
+
+
+#about-me{
+  margin-top: 200px;
+  margin-left:60px;
+  margin-right: 60px;
+  margin-bottom: 200px;
+  display: grid;
+}
+
+#dev{
+  color:#DD58D6;
+  font-family:Poiret One;
+
+}
+
+#text{
+   text-align: left;
+    width:400px;
+    height:200px;
+    display: grid;
+    position: relative;
+    right: 790px;
+    top:170px;
+
+
+}
+
+
+#meet{
+   font-family: Nanum Myeongjo;
+
+}
